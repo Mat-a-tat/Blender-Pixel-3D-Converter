@@ -1,5 +1,5 @@
 bl_info = {
-    "name": "Pixel Art Eevee Rendering",
+    "name": "Blender Pixel 3D Converter",
     "author": "Mathew Vondersaar",
     "version": (1, 1),
     "blender": (3, 30, 1),
