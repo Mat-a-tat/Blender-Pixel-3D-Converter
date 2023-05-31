@@ -1,10 +1,10 @@
 bl_info = {
     "name": "Pixel Art Eevee Rendering",
-    "author": "Lucas Roedel",
+    "author": "Mathew Vondersaar",
     "version": (1, 1),
     "blender": (3, 30, 1),
     "location": "3D Viewport > Side panel",
-    "description": "Pixel Art rendering addon using eevee. Based on the work of Mezaka",
+    "description": "Pixel Art rendering addon using eevee. Based on the work of Mezaka, and original code by Lucas Roedel",
     "warning": "",
     "doc_url": "",
     "category": "Render",
