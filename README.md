@@ -2,7 +2,7 @@
 
 !!!
 
-This is currently essentially Lucas' code copy pasted here in github. I've made this project open to allow the code to be more easily seen and shared with co-pilot as I work on it
+This is currently essentially Lucas' code copy pasted here in github. I've made this project open to allow the code to be more easily seen and shared with co-pilot as I work on it. Posted here for discussion and archieve purposes. 
 
 !!!
 
