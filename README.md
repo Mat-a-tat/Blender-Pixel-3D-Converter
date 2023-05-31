@@ -1,5 +1,8 @@
 # Blender-Pixel-3D-Converter
-Addon for converting 3D images to pixel art! Based on the wonderful addon made by Lucas Roedel, which in turn was inspired by Mezka
+
+!!!This is currently essentially Lucas' code copy pasted here in github. I've made this project open to allow the code to be more easily seen and shared with co-pilot as I work on it!!!
+
+Addon for converting 3D images to pixel art! Based on the wonderful addon made by Lucas Roedel, which in turn was inspired by Mezka.
 
 Lucas Roedel's Gumroad: https://lucasroedel.gumroad.com/l/pixel_art
 
